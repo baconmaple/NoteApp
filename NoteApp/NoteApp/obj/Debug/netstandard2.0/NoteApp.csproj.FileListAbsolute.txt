@@ -1,0 +1,15 @@
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\bin\Debug\netstandard2.0\NoteApp.deps.json
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\bin\Debug\netstandard2.0\NoteApp.dll
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\bin\Debug\netstandard2.0\ref\NoteApp.dll
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\bin\Debug\netstandard2.0\NoteApp.pdb
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.csprojAssemblyReference.cache
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.AssemblyInfoInputs.cache
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.AssemblyInfo.cs
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.dll
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\ref\NoteApp.dll
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.pdb
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\NoteApp.csproj.CoreCompileInputs.cache
+C:\Users\baconmaple\WorkSpace\G5\NoteApp\NoteApp\NoteApp\obj\Debug\netstandard2.0\XamlC.stamp
